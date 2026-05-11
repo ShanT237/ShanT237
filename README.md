@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Santiago+Torres+%F0%9F%91%8B;Systems+Engineering+Student;Data+Analyst+%7C+Data+Science+Enthusiast;Python+%7C+SQL+%7C+Cloud+%7C+Elixir" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Santiago+Torres+%F0%9F%91%8B;Systems+Engineering+Student;Data+Analyst+%7C+Data+Scientist;Python+%7C+SQL+%7C+GCP+%7C+Elixir" alt="Typing SVG" />
 
 </div>
 
@@ -47,8 +47,8 @@ Soy estudiante de **Ingeniería en Sistemas** apasionado por los datos y su pote
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ShanT237&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShanT237&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShanT237&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ShanT237&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
 
 </div>
 
