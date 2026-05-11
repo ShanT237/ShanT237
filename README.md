@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Santiago+Torres+%F0%9F%91%8B;Systems+Engineering+Student;Data+Analyst+%7C+Data+Scientist;Python+%7C+SQL+%7C+Cloud+%7C+Elixir" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6E57F7&center=true&vCenter=true&width=600&lines=Hola%2C+soy+Santiago+Torres+%F0%9F%91%8B;Systems+Engineering+Student;Data+Analysis+%7C+Data+Science;Python+%7C+SQL+%7C+GCP+%7C+Elixir" alt="Typing SVG" />
 
 </div>
 
@@ -36,6 +36,10 @@ Soy estudiante de **Ingeniería en Sistemas** apasionado por los datos y su pote
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
 
+### 🚀 Frameworks
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+
 ### 🧰 Herramientas
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -47,8 +51,21 @@ Soy estudiante de **Ingeniería en Sistemas** apasionado por los datos y su pote
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShanT237&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ShanT237&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
+[![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ShanT237&theme=tokyonight)](https://github.com/ShanT237)
+
+</div>
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ShanT237&theme=tokyonight)](https://github.com/ShanT237)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ShanT237&theme=tokyonight)](https://github.com/ShanT237)
+
+</div>
+
+<div align="center">
+
+[![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ShanT237&theme=tokyonight)](https://github.com/ShanT237)
+[![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ShanT237&theme=tokyonight&utcOffset=-5)](https://github.com/ShanT237)
 
 </div>
 
