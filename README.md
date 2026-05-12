@@ -14,7 +14,7 @@ Soy estudiante de **Ingeniería en Sistemas** apasionado por los datos y su pote
 - 📊 Enfocado en **Análisis de Datos** y **Ciencia de Datos**
 - 🔁 Construyendo pipelines de datos robustos y escalables
 - ☁️ Explorando soluciones en la nube
-- 🌱 Aprendiendo constantemente — actualmente profundizando en **Machine Learning**
+- 🌱 Aprendiendo constantemente
 - 🇨🇴 Desde Colombia
 
 ---
